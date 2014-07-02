@@ -79,16 +79,26 @@ void* awh_palloc(awh_pool_t *pool, size_t size);
 
 void* awh_pnalloc(awh_pool_t *pool, size_t size);
 
-void* awh_pcalloc(awh_pool_t *pool, size_t size, size_t alignment);
+//allocate size memory from pool
+void* awh_pcalloc(awh_pool_t *pool, size_t size);
 
+//allocate size memory for pool, alignment
+void *awh_pmemalign(awh_pool_t *pool, size_t size, size_t alignment);
+
+
+//free p from pool
 awh_int_t awh_pfree(awh_pool_t *pool, void *p);
 
+//allocate size length memory from awh_pool_t and add to cleanup link
 awh_pool_cleanup_t* awh_pool_cleanup_add(awh_pool_t *p, size_t size);
 
+//close all fds of awh_pool_t
 void awh_pool_run_cleanup_file(awh_pool_t *p, int fd);
 
+//close fd of awh_pool_cleanup_file_t
 void awh_pool_cleanup_file(void *data);
 
+//unlink name and close fd of awh_pool_cleanup_file_t
 void awh_pool_delete_file(void *data);
 
 } //namespace awh
