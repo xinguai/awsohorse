@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T05:48:33.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_EKT4NdVwlIIEferEbS7" version="14.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-01T06:20:20.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="gwyBc5vE-tLhRPJSMl9m" version="14.5.1" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="全">
-    <mxGraphModel dx="1783" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="idc" id="Ittpu0ZoavqUL2aliWi8">
-    <mxGraphModel dx="1783" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="sMYiMwD9Hwus_GYeHCxp-0" />
         <mxCell id="sMYiMwD9Hwus_GYeHCxp-1" parent="sMYiMwD9Hwus_GYeHCxp-0" />
@@ -216,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="tke" id="gQUGaqc0LccCy35nbZhT">
-    <mxGraphModel dx="1783" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="p_0J_BowJGtKCGBVi6Ci-0" />
         <mxCell id="p_0J_BowJGtKCGBVi6Ci-1" parent="p_0J_BowJGtKCGBVi6Ci-0" />
@@ -256,7 +256,7 @@
         <mxCell id="p_0J_BowJGtKCGBVi6Ci-13" value="Service (A)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#AFFFAF;" vertex="1" parent="p_0J_BowJGtKCGBVi6Ci-1">
           <mxGeometry x="558.75" y="600" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p_0J_BowJGtKCGBVi6Ci-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;node &lt;br&gt;&amp;nbsp; id: 命令字&lt;br&gt;&amp;nbsp; cluster:服务名&lt;br&gt;listeners:&lt;br&gt;&amp;nbsp; - name ingress-listenerA&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;address: 9.8.18.99&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;port_value: serviceA的port&lt;br&gt;&amp;nbsp; - name ingress-listenerB&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;address: 9.8.18.99&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;port_value: serviceB的port&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p_0J_BowJGtKCGBVi6Ci-1">
+        <mxCell id="p_0J_BowJGtKCGBVi6Ci-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;node &lt;br&gt;&amp;nbsp; id: 命令字&lt;br&gt;&amp;nbsp; cluster:服务名&lt;br&gt;listeners:&lt;br&gt;&amp;nbsp; - name ingress-listenerA&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;address: 9.8.18.99&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;port_value: serviceA的port&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p_0J_BowJGtKCGBVi6Ci-1">
           <mxGeometry x="350" y="357.5" width="210" height="182.5" as="geometry" />
         </mxCell>
         <mxCell id="p_0J_BowJGtKCGBVi6Ci-16" value="Service(C)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#AFFFAF;" vertex="1" parent="p_0J_BowJGtKCGBVi6Ci-1">
