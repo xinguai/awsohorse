@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T02:07:50.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="x6B-hU3IcW861XVS9HGB" version="14.8.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-15T02:30:16.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="ZP4prtX4bXcQ-8GsiMDw" version="14.8.5" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="全">
     <mxGraphModel dx="2062" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -221,13 +221,13 @@
         <mxCell id="askypaNPr6aTkJIERQEl-45" value="控制面" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
           <mxGeometry x="770" y="427" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="askypaNPr6aTkJIERQEl-46" value="sidecar" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=course;archiType=rounded;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
+        <mxCell id="askypaNPr6aTkJIERQEl-46" value="sidecar(A)" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=course;archiType=rounded;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
           <mxGeometry x="369" y="688" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="askypaNPr6aTkJIERQEl-63" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
           <mxGeometry x="862.25" y="580" width="525.5" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="askypaNPr6aTkJIERQEl-64" value="Envoy(A)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
+        <mxCell id="askypaNPr6aTkJIERQEl-64" value="Envoy(B)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
           <mxGeometry x="945" y="688" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="askypaNPr6aTkJIERQEl-83" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="askypaNPr6aTkJIERQEl-1" source="askypaNPr6aTkJIERQEl-65" target="askypaNPr6aTkJIERQEl-69">
@@ -247,13 +247,13 @@
         <mxCell id="askypaNPr6aTkJIERQEl-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="askypaNPr6aTkJIERQEl-1" source="askypaNPr6aTkJIERQEl-69" target="askypaNPr6aTkJIERQEl-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="askypaNPr6aTkJIERQEl-69" value="Service (A)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#AFFFAF;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
+        <mxCell id="askypaNPr6aTkJIERQEl-69" value="Service (B)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#AFFFAF;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
           <mxGeometry x="1050.5" y="813" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="askypaNPr6aTkJIERQEl-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="askypaNPr6aTkJIERQEl-1" source="askypaNPr6aTkJIERQEl-71" target="askypaNPr6aTkJIERQEl-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="askypaNPr6aTkJIERQEl-71" value="sidecar" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=course;archiType=rounded;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
+        <mxCell id="askypaNPr6aTkJIERQEl-71" value="sidecar(B)" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=course;archiType=rounded;" vertex="1" parent="askypaNPr6aTkJIERQEl-1">
           <mxGeometry x="1225" y="690.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="askypaNPr6aTkJIERQEl-82" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="askypaNPr6aTkJIERQEl-1" source="askypaNPr6aTkJIERQEl-18" target="askypaNPr6aTkJIERQEl-65">
